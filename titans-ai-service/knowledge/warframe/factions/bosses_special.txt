@@ -1,0 +1,6 @@
+BOSSES / SPECIAL ENTITIES:
+- eidolons
+- archons
+- kuva liches
+- sisters of parvos
+- unique mechanics per encounter

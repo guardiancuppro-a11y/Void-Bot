@@ -1,0 +1,15 @@
+DEFENSE
+
+Objectif :
+Protéger une cible statique pendant plusieurs vagues.
+
+Design :
+- gestion de zone
+- contrôle de foule
+- endurance progressive
+
+La difficulté :
+- augmente par vagues
+- punit les erreurs cumulées
+
+Les frames de contrôle brillent ici.

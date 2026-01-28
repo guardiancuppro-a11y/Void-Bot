@@ -1,0 +1,3 @@
+Les éléments combinés résultent de la fusion de deux éléments simples.
+Ils possèdent des effets distincts.
+Leur interaction dépend du type d’ennemi.

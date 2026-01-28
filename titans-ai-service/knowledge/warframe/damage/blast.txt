@@ -1,0 +1,3 @@
+L’Explosion provoque des effets de contrôle.
+Elle affecte une zone.
+Elle peut interrompre plusieurs ennemis.

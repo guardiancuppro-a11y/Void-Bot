@@ -1,0 +1,27 @@
+WARFRAME – MISSIONS (CORE DESIGN)
+
+Les missions sont le cœur du gameplay Warframe.
+Elles sont conçues pour être rapides, répétables et modulaires.
+
+Chaque mission repose sur :
+- un objectif clair
+- une pression temporelle implicite
+- une montée en intensité
+
+Contrairement à un RPG classique :
+- le chemin est rarement important
+- l’exécution prime sur l’exploration
+
+Une mission réussie :
+- est rapide
+- est propre
+- minimise l’exposition inutile aux ennemis
+
+---
+PRINCIPE FONDAMENTAL
+
+Dans Warframe, rester immobile est une erreur.
+Toutes les missions punissent :
+- la lenteur
+- l’hésitation
+- le sur-engagement

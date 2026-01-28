@@ -1,0 +1,49 @@
+WARFRAME – DESIGN PHILOSOPHY (CORE)
+
+Warframe n’est pas conçu comme un RPG classique.
+Le jeu repose sur la vitesse, l’excès et la montée en puissance contrôlée.
+
+Le design de Warframe part du principe que :
+- le joueur est surpuissant
+- l’ennemi doit punir l’erreur, pas la lenteur
+- la survie est active, jamais passive
+
+La plupart des systèmes existent pour casser :
+- l’AFK
+- le stat-check pur
+- les builds immobiles
+
+---
+1. LE JOUEUR COMME ARME PRINCIPALE
+
+Dans Warframe, le joueur est plus important que l’équipement.
+Le mouvement, le timing et la lecture de la situation
+sont plus importants que les stats brutes.
+
+Un joueur mobile survit.
+Un joueur immobile meurt.
+
+---
+2. LE TEMPO DU JEU
+
+Le jeu est pensé pour être rapide :
+- déplacements constants
+- combats courts mais violents
+- décisions instantanées
+
+Les mécaniques défensives sont donc :
+- temporaires
+- conditionnelles
+- dépendantes du rythme
+
+---
+3. POURQUOI LE JEU SEMBLE “INJUSTE”
+
+Warframe n’explique pas ses mécaniques.
+Le jeu attend que le joueur :
+- expérimente
+- échoue
+- comprenne
+
+La difficulté vient rarement des chiffres,
+mais de l’incompréhension des règles invisibles.

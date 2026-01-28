@@ -1,0 +1,5 @@
+SENTIENTS:
+- adaptive resistance faction
+- resists repeated damage types
+- vulnerable to void damage
+- includes eidolons and archons

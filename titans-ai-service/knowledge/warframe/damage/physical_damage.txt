@@ -1,0 +1,4 @@
+Les dégâts physiques sont au nombre de trois : Impact, Perforation et Tranchant.
+Chaque type possède des interactions spécifiques avec les ennemis.
+Ces dégâts peuvent déclencher des effets de statut propres.
+Ils sont toujours présents sur les armes physiques.

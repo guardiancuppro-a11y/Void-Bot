@@ -1,0 +1,5 @@
+TECHROT:
+- advanced infested variant
+- high organic resistance
+- deimos-related presence
+- unique enemy patterns

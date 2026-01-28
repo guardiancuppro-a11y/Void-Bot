@@ -1,0 +1,165 @@
+# WARFRAME — PROGRESSION & MAÎTRISE (MASTERY RANK)
+
+This document defines the official Warframe Mastery Rank progression system.
+All values are factual and deterministic.
+
+---
+
+## 1. MASTER RANK (MR) — DEFINITION
+
+Mastery Rank (MR) represents overall account progression.
+It is increased by gaining Mastery XP from equipment and activities.
+
+Mastery Rank is global and permanent.
+
+---
+
+## 2. MASTER RANK XP SOURCES
+
+Mastery XP is gained ONLY the first time an item is leveled to its maximum rank.
+
+Repeated leveling of the same item does NOT grant additional XP.
+
+---
+
+## 3. XP VALUES PER ITEM TYPE
+
+### WARFRAMES
+- Warframe (Rank 30): **6,000 XP**
+- Prime Warframe (Rank 30): **6,000 XP**
+- Umbra Warframe: **6,000 XP**
+- Necramech (Rank 40): **8,000 XP**
+
+### ARCHWINGS
+- Archwing (Rank 30): **6,000 XP**
+
+### COMPANIONS
+- Companion (Kubrow, Kavat, Sentinel): **6,000 XP**
+- Sentinel Weapon: **3,000 XP**
+- MOA Companion: **6,000 XP**
+- MOA Weapon: **3,000 XP**
+
+### PRIMARY WEAPONS
+- Primary Weapon (Rank 30): **3,000 XP**
+- Kuva / Tenet Weapon (Rank 40): **4,000 XP**
+
+### SECONDARY WEAPONS
+- Secondary Weapon (Rank 30): **3,000 XP**
+- Kuva / Tenet Secondary (Rank 40): **4,000 XP**
+
+### MELEE WEAPONS
+- Melee Weapon (Rank 30): **3,000 XP**
+- Kuva / Tenet Melee (Rank 40): **4,000 XP**
+
+### ARCH-GUNS
+- Arch-Gun (Rank 30): **3,000 XP**
+
+---
+
+## 4. SPECIAL SOURCES
+
+### RAILJACK
+- Intrinsics (Rank 10 per category): **1,500 XP per rank**
+- Total Railjack XP is capped.
+
+### DRIFTER / OPERATOR
+- Operator Amps (Rank 30): **3,000 XP**
+- Drifter Intrinsics contribute to mastery.
+
+---
+
+## 5. MASTERY RANK XP REQUIREMENTS
+
+Total XP required to reach each Mastery Rank:
+
+| Mastery Rank | Total XP Required |
+|-------------|------------------|
+| MR 0 | 0 |
+| MR 1 | 2,500 |
+| MR 2 | 22,500 |
+| MR 3 | 52,500 |
+| MR 4 | 92,500 |
+| MR 5 | 142,500 |
+| MR 6 | 202,500 |
+| MR 7 | 272,500 |
+| MR 8 | 352,500 |
+| MR 9 | 442,500 |
+| MR 10 | 542,500 |
+| MR 11 | 652,500 |
+| MR 12 | 772,500 |
+| MR 13 | 902,500 |
+| MR 14 | 1,042,500 |
+| MR 15 | 1,192,500 |
+| MR 16 | 1,352,500 |
+| MR 17 | 1,522,500 |
+| MR 18 | 1,702,500 |
+| MR 19 | 1,892,500 |
+| MR 20 | 2,092,500 |
+| MR 21 | 2,302,500 |
+| MR 22 | 2,522,500 |
+| MR 23 | 2,752,500 |
+| MR 24 | 2,992,500 |
+| MR 25 | 3,242,500 |
+| MR 26 | 3,502,500 |
+| MR 27 | 3,772,500 |
+| MR 28 | 4,052,500 |
+| MR 29 | 4,342,500 |
+| MR 30 | 4,642,500 |
+
+---
+
+## 6. MASTERY RANK TESTS
+
+- Each Mastery Rank requires a test.
+- Tests unlock once sufficient XP is reached.
+- Tests can be retried after a cooldown if failed.
+- Practice mode is available.
+
+Failing a test does NOT remove XP.
+
+---
+
+## 7. MASTERY RANK BENEFITS
+
+Each Mastery Rank increases:
+
+- Daily standing cap
+- Void Trace cap
+- Maximum trades per day
+- Base mod capacity on unranked items
+- Weapon and content access
+
+Higher MR unlocks exclusive weapons and features.
+
+---
+
+## 8. IMPORTANT RULES
+
+- Mastery XP is granted ONCE per item.
+- Forma resets item rank but does NOT give additional XP.
+- Duplicate items do NOT grant extra XP.
+- Prime variants count as separate items.
+
+---
+
+## 9. OPTIMIZATION RULES (PLAYER LOGIC)
+
+Best XP efficiency:
+- Level Warframes first (6,000 XP)
+- Level companions and sentinels
+- Level weapons last
+- Kuva / Tenet weapons give extra XP
+
+---
+
+## 10. AI BEHAVIOR RULES
+
+When answering progression questions:
+- Always state XP values explicitly
+- Never approximate XP thresholds
+- Ask user for missing items if calculation is required
+- Prefer exact totals over estimates
+
+---
+
+END OF PROGRESSION KNOWLEDGE

@@ -1,0 +1,4 @@
+Les dégâts élémentaires sont générés par combinaison de mods.
+Ils ajoutent des effets et des interactions spécifiques.
+Ils peuvent se combiner entre eux.
+Ils ne remplacent pas les dégâts physiques.

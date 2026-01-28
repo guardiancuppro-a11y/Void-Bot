@@ -1,0 +1,3 @@
+Les dégâts vrais ignorent armure et boucliers.
+Ils sont générés par certains effets de statut.
+Ils ne sont pas modifiables par les résistances classiques.

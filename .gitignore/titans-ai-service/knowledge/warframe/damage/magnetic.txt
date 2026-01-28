@@ -1,0 +1,3 @@
+Le Magnétique affecte les boucliers.
+Il augmente les dégâts subis par les boucliers.
+Il perturbe l’énergie chez certaines cibles.

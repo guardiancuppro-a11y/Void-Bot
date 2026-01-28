@@ -1,0 +1,17 @@
+EXTERMINATION
+
+Objectif :
+Éliminer un nombre défini d’ennemis.
+
+Ce que le jeu attend :
+- progression constante
+- nettoyage efficace
+- pas de backtracking inutile
+
+Erreurs fréquentes :
+- chercher le 100% de la map
+- s’arrêter pour loot trop longtemps
+
+Les exterminations sont pensées comme :
+- un test de fluidité
+- un test de mobilité

@@ -1,0 +1,4 @@
+Le Froid ralentit les ennemis.
+Il réduit la vitesse de déplacement et d’attaque.
+Il est efficace contre les boucliers.
+Il se cumule avec des effets de ralentissement.

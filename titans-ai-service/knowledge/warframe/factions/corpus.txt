@@ -1,0 +1,6 @@
+CORPUS:
+- shield-based faction
+- relies on robotics and technology
+- weak to toxin and magnetic
+- robots resist toxin
+- variants: amalgam, narmer, sisters of parvos, corrupted

@@ -1,0 +1,13 @@
+{
+  "weapon": "SOMA",
+  "stats": [
+    {
+      "name": "Critical Chance",
+      "value": 120
+    },
+    {
+      "name": "Critical Damage",
+      "value": 80
+    }
+  ]
+}

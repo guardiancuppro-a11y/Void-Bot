@@ -1,0 +1,71 @@
+SURVIVABILITY – CORE MECHANICS (WARFRAME)
+
+Dans Warframe, la survivabilité repose sur plusieurs couches défensives qui s’empilent.
+Aucune couche seule ne suffit en endgame. Le jeu est conçu pour que la survie repose
+sur la compréhension des priorités défensives, pas sur un simple pool de stats.
+
+---
+1. HEALTH (VIE)
+La vie représente la dernière couche défensive.
+Quand la vie tombe à zéro, le Warframe est à terre.
+
+La vie :
+- est affectée par les dégâts directs
+- est fortement vulnérable aux statuts Slash et Toxin
+- est améliorée par des mods de santé
+- peut être régénérée par capacités, arcanes, compagnons
+
+Important :
+La vie seule ne scale PAS bien en endgame.
+Sans réduction de dégâts ou shield gating, elle fond instantanément.
+
+---
+2. SHIELDS (BOUCLIERS)
+Les shields absorbent les dégâts avant la vie.
+Ils se régénèrent automatiquement après un délai sans dégâts.
+
+Caractéristiques :
+- bloquent la plupart des dégâts directs
+- sont bypass par Toxin
+- déclenchent le Shield Gating
+- sont sensibles aux dégâts électriques et magnétiques
+
+Les shields sont faibles en valeur brute,
+mais CRITIQUES via le Shield Gating.
+
+---
+3. ARMOR (ARMURE)
+L’armure réduit les dégâts subis sur la vie.
+
+Formule simplifiée :
+Plus l’armure est élevée, plus les dégâts sont réduits,
+mais avec un rendement décroissant.
+
+Important :
+- L’armure ne protège PAS les shields
+- L’armure est inefficace contre Slash (DoT) et Toxin
+
+---
+4. DAMAGE REDUCTION (DR)
+La DR est une réduction multiplicative des dégâts.
+C’est l’une des mécaniques les plus puissantes du jeu.
+
+Sources :
+- capacités de Warframe
+- arcanes
+- passifs
+
+Plusieurs sources de DR se multiplient entre elles,
+ce qui permet des niveaux de survie extrêmes.
+
+---
+5. PRIORITÉ DES COUCHES
+Ordre réel de survie :
+1) Invulnérabilité / Shield Gating
+2) Damage Reduction
+3) Contrôle de foule
+4) Shields
+5) Armor
+6) Health
+
+Si tu comprends cet ordre, tu comprends Warframe.

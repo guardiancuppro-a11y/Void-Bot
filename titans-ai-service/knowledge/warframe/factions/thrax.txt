@@ -1,0 +1,5 @@
+THRAX:
+- void-based entities
+- appear in zariman content
+- special interaction with void damage
+- spectral behavior

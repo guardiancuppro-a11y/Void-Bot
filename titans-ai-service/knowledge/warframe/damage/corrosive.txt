@@ -1,0 +1,4 @@
+La Corrosion réduit l’armure.
+Son effet est cumulatif.
+Elle est efficace contre les ennemis blindés.
+Elle n’inflige pas de dégâts continus.

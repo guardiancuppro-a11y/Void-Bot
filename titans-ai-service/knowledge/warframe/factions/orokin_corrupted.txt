@@ -1,0 +1,5 @@
+OROKIN / CORRUPTED:
+- void-corrupted enemies
+- mix of grineer and corpus units
+- retain original armor or shields
+- resistant to raw damage

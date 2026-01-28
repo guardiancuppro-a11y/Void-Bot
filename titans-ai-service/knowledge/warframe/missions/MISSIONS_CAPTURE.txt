@@ -1,0 +1,16 @@
+CAPTURE
+
+Objectif :
+Neutraliser une cible puis extraction.
+
+Design :
+- mission courte
+- pression immédiate
+- récompense la vitesse
+
+La cible :
+- fuit volontairement
+- force le joueur à maîtriser le mouvement
+
+Erreur classique :
+Traiter la mission comme une extermination.

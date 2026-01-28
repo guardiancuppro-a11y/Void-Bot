@@ -1,0 +1,4 @@
+La Radiation provoque la confusion.
+Les ennemis peuvent attaquer leurs alliés.
+Elle est efficace contre certains types blindés.
+Son effet perturbe l’aggro.

@@ -1,0 +1,5 @@
+MURMUR:
+- void-origin enemies
+- introduced with whispers in the walls
+- non-standard resistances
+- linked to albrecht entrati

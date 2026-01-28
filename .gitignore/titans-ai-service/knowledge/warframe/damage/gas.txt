@@ -1,0 +1,3 @@
+Le Gaz crée un nuage de dégâts.
+Il inflige des dégâts de zone sur la durée.
+Son efficacité dépend de la densité ennemie.

@@ -1,0 +1,5 @@
+NARMER:
+- hybrid faction (grineer + corpus)
+- combined armor and shields
+- introduced post-New War
+- resistant to single-damage builds
