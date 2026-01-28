@@ -1,4 +1,0 @@
-Le Tranchant est orienté dégâts sur la durée.
-Son statut inflige des dégâts vrais basés sur les dégâts initiaux.
-Ces dégâts ignorent l’armure.
-Il est très efficace contre les ennemis fortement blindés.

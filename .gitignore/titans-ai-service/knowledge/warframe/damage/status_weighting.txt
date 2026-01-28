@@ -1,3 +1,0 @@
-La pondération de statut dépend de la répartition des dégâts.
-Les types dominants ont plus de chances d’être appliqués.
-Les mods influencent cette répartition.

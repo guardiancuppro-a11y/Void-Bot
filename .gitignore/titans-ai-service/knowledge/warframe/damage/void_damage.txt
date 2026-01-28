@@ -1,3 +1,0 @@
-Le Vide est un type de dégâts particulier.
-Il interagit avec les ennemis Sentients.
-Il provoque des effets d’adaptation spécifiques.

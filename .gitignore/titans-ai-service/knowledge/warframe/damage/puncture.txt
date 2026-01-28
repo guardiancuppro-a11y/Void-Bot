@@ -1,4 +1,0 @@
-La Perforation est orientée réduction de dégâts ennemis.
-Elle est plus efficace contre l’armure.
-Son statut réduit les dégâts infligés par la cible.
-Elle n’inflige pas de dégâts continus.

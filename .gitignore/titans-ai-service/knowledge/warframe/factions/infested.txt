@@ -1,6 +1,0 @@
-INFESTED:
-- organic faction
-- no shields
-- weak to heat and slash
-- vulnerable to crowd control
-- variants: mutalist, deimos, emissary, technocyte

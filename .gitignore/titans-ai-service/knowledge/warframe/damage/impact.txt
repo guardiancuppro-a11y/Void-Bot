@@ -1,4 +1,0 @@
-L’Impact est associé au contrôle et à l’interruption.
-Il est plus efficace contre les boucliers.
-Son statut provoque un stagger ou une interruption temporaire.
-Il réduit temporairement l’efficacité offensive de la cible.

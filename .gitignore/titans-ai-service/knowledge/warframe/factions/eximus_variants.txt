@@ -1,5 +1,0 @@
-EXIMUS VARIANTS:
-- enhanced enemy units
-- overshields or overguard
-- retain base faction traits
-- require crowd control or armor strip

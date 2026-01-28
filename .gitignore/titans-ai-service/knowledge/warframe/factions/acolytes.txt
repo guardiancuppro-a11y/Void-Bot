@@ -1,5 +1,0 @@
-ACOLYTES:
-- steel path mini-bosses
-- high armor
-- vulnerable to scaling mechanics
-- resist burst damage

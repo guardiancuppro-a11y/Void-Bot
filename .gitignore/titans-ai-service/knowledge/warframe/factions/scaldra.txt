@@ -1,5 +1,0 @@
-SCALDRA:
-- human militarized faction
-- conventional weaponry
-- low extreme scaling
-- recent narrative faction

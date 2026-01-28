@@ -1,4 +1,0 @@
-Le Viral augmente les dégâts subis par la santé.
-Il ne modifie pas les boucliers.
-Son effet se cumule jusqu’à un plafond.
-Il est très utilisé contre les ennemis à forte santé.

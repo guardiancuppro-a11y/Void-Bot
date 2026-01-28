@@ -1,1 +1,0 @@
-agno\npsycopg[binary]\nsqlalchemy\npython-dotenv\npydantic\nopenai\nduckduckgo-search

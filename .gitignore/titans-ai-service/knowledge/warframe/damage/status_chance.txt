@@ -1,3 +1,0 @@
-La chance de statut détermine la probabilité d’appliquer un effet.
-Elle est calculée par coup.
-Les effets peuvent se cumuler.

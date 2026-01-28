@@ -1,4 +1,0 @@
-L’Électricité inflige des dégâts en chaîne.
-Elle peut étourdir les ennemis.
-Elle est efficace contre les boucliers.
-Son statut peut toucher plusieurs cibles.

@@ -1,3 +1,0 @@
-Les dégâts subissent des calculs de mise à l’échelle.
-L’armure, les boucliers et la santé modifient l’impact final.
-Les ennemis de haut niveau amplifient ces effets.

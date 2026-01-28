@@ -1,6 +1,0 @@
-GRINEER:
-- cloned military faction
-- heavy armor scaling
-- weak to slash and heat
-- resistant to impact
-- variants: kuva, narmer, corrupted, steel path

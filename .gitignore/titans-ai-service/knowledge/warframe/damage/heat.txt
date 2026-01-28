@@ -1,4 +1,0 @@
-Le Feu inflige des dégâts sur la durée.
-Il réduit temporairement l’armure de la cible.
-Il provoque une panique chez certains ennemis.
-Son effet se cumule.
